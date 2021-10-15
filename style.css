@@ -1,0 +1,15 @@
+body{
+  background-color:crimson;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+ul{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50% , -50%);
+  transition: .3s all;
+}
